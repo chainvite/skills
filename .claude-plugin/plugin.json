@@ -1,0 +1,15 @@
+{
+  "name": "chainvite",
+  "displayName": "Chainvite",
+  "version": "0.1.1",
+  "description": "Create Chainvite events from a conversation: describe the event, finish it step by step in the composer, and save or publish it only after you approve. Also reads what is on, your invites and your inbox.",
+  "author": {
+    "name": "Chainvite",
+    "url": "https://chainvite.com"
+  },
+  "homepage": "https://chainvite.com",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://chainvite.com/legal/privacy",
+  "termsOfServiceUrl": "https://chainvite.com/legal/terms",
+  "supportUrl": "https://chainvite.com/support/connectors"
+}
