@@ -11,5 +11,7 @@
   "license": "MIT",
   "privacyPolicyUrl": "https://chainvite.com/legal/privacy",
   "termsOfServiceUrl": "https://chainvite.com/legal/terms",
-  "supportUrl": "https://chainvite.com/support/connectors"
+  "supportUrl": "https://chainvite.com/support/connectors",
+  "repository": "https://github.com/Chainvite/skills",
+  "documentationUrl": "https://github.com/Chainvite/skills#readme"
 }
