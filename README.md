@@ -20,4 +20,4 @@ and add the Chainvite connector, `https://mcp.chainvite.com/mcp`, in that agent'
 
 ## Data
 
-The plugin sends what you ask and the changes you approve to your Chainvite account through https://mcp.chainvite.com, and nowhere else. The plugin stores nothing itself. It cannot reach a wallet, a payment or an escrow.
+The plugin sends what you ask and the changes you approve to your Chainvite account through https://mcp.chainvite.com, and nowhere else. The plugin stores nothing itself.
