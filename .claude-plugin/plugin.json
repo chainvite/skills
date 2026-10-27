@@ -1,7 +1,7 @@
 {
   "name": "chainvite",
   "displayName": "Chainvite",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Create Chainvite events from a conversation: describe the event, finish it step by step in the composer, and save or publish it only after you approve. Also reads what is on, your invites and your inbox.",
   "author": {
     "name": "Chainvite",
